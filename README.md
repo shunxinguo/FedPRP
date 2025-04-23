@@ -1,6 +1,6 @@
 # Addressing Skewed Heterogeneity via Federated Prototype Rectification With Personalization
 
-> Shunxin Guo, Hongsong Wang, Shuxia Lin, Zhiqiang Kou, and Xin Geng
+>  Shunxin Guo, Hongsong Wang, Shuxia Lin, Zhiqiang Kou, and Xin Geng, IEEE Transactions on Neural Networks and Learning Systems, 2024.
 ## Abstract
 Federated learning (FL) is an efficient framework
 designed to facilitate collaborative model training across
@@ -22,3 +22,13 @@ interclass discrimination and intraclass consistency to rectify
 empirical prototypes. Experiments on three popular benchmarks
 show that the proposed approach outperforms current state-of-the-art methods and achieves balanced performance in both
 personalization and generalization.
+
+```
+    @article{guo2024addressing,
+    title={Addressing Skewed Heterogeneity via Federated Prototype Rectification With Personalization},
+    author={Guo, Shunxin and Wang, Hongsong and Lin, Shuxia and Kou, Zhiqiang and Geng, Xin},
+    journal={IEEE Transactions on Neural Networks and Learning Systems},
+    year={2024},
+    publisher={IEEE}
+    }
+'''
